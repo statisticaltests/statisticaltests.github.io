@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive Map
+title:
 permalink: /map/
 ---
 
