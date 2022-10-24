@@ -15,9 +15,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: https://www.dallasisd.org/domain/98
   dribbble:
-  email: fferrero@dallasisd.org
+  email:
   facebook:
   flickr:
   github: 
