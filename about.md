@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Statistical Test Map
-permalink: /map/
+title: About
+permalink: /about/
 ---
 
 ### More Information
