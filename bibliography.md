@@ -1,7 +1,11 @@
+---
+layout: page
+title: Bibliography
+permalink: /bibliography/
+---
 
-layout	title	permalink
-page
-About
-/about/
+### References
 
-Statistical Tests Map Prototype
+* Reference 1
+* Reference 2
+* Reference 3
