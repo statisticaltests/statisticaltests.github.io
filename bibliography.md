@@ -8,6 +8,4 @@ permalink: /bibliography/
 * Reference 2
 * Reference 3
 * Reference 4
-* Reference 5
-* Reference 6
 
