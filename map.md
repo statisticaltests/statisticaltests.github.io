@@ -4,7 +4,7 @@ title: Interactive Map
 permalink: /map/
 ---
 
-This **Statistical Tests Map** allows you to click the blue buttons and access slides that describe how to run specific tests in SPSS using DISD data....
+This **Statistical Tests Map** allows you to click the turquoise buttons and access slides that describe how to run specific tests in SPSS using DISD data....
 
 Click here to access the map. https://www.figma.com/file/UqBaSDGnVeGUacN8r1qeCp/Choosing-a-Statistical-Test?node-id=0%3A1&t=eBCBk0PMV4DnUlVC-1
 
